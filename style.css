@@ -20,11 +20,8 @@ body {
     /* gap: 10px; */
 }
 
-
-
 h1 {
     margin: 0px 0px 0px 0px;
-
     font-size: 26px;
     font-weight: 800;
     color: #141E46;
@@ -53,9 +50,6 @@ input {
 
 button {
     width: 150px;
-    /* height: 25px; */
-    /* padding: 20px 20px 20px 20px; */
-    /* margin-top: 20px; */
     display: flex;
     justify-content: center;
     align-items: center;
